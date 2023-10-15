@@ -23,7 +23,7 @@ I am working on software for viral genomics. Available through `pip` (and `conda
 
 
 
-#### ![Publications](https://scholar.google.de/citations?user=0Gw3wxUAAAAJ&hl=de) :scroll:
+#### Publication :scroll:
 
 - [Within-host evolution of SARS-CoV-2 in an immunosuppressed COVID-19 patient as a source of immune escape variants](https://www.nature.com/articles/s41467-021-26602-3)
 - [Total escape of SARS-CoV-2 from dual monoclonal antibody therapy in an immunocompromised patient](https://www.nature.com/articles/s41467-023-37591-w)
