@@ -5,7 +5,7 @@
 #### Welcome :fox_face:
 <p>I am currently working as a Post-Doc at the Institute for Virology in Freiburg leading the in-house NGS sequencing laboratory. We focus on viral genomics and intra-host evolution of diverse pathogens (Hepatitis E virus, SARS-CoV-2, Influenza A, MPXV and HSV-1). I started bioinformatics at the beginning of the SARS-CoV-2 pandemic and have been in love with big data, genomics, metagenomics, coding and pyhlogenetics ever since. I am a super weird mixture of wet-lab molecular virologist, bioinformatician, data scientist, NGS specialist, epidemiologist, clinical scientist and nerd.</p>
 
-##### Skills  :heavy_check_mark:
+#### Skills  :heavy_check_mark:
 ![My Skills](https://skillicons.dev/icons?i=linux,r,py,powershell,bash,html,git,github,ps)[![snakemake](https://avatars.githubusercontent.com/u/33450111?s=50&v=4)](https://github.com/snakemake)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-fuchs&layout=compact&theme=dark)
