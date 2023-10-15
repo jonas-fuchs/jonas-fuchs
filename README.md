@@ -14,9 +14,9 @@
 
 I am working on software for viral genomics. Available through `pip` (and `conda`).
 
-- Aggregate your virus sequencing results into an interactive plot: [`BAMdash`](https://github.com/jonas-fuchs/BAMdash)
-- Design primers for PCR on highly variable alignments: [`varVAMP`](https://github.com/jonas-fuchs/varVAMP)
-- Compare vcf files as a heatmap: [`virHEAT`](https://github.com/jonas-fuchs/virHEAT)
+- [`BAMdash`](https://github.com/jonas-fuchs/BAMdash) Aggregate your virus sequencing results into an interactive plot.
+- [`varVAMP`](https://github.com/jonas-fuchs/varVAMP) Design primers for PCR on highly variable alignments.
+- [`virHEAT`](https://github.com/jonas-fuchs/virHEAT) Compare vcf files as a heatmap.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=jonas-fuchs&show_icons=true&theme=dark)
 
