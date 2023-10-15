@@ -25,16 +25,16 @@ I am working on software for viral genomics. Available through `pip` (and `conda
 
 #### ![Publications](https://scholar.google.de/citations?user=0Gw3wxUAAAAJ&hl=de) :scroll:
 
-- ![Within-host evolution of SARS-CoV-2 in an immunosuppressed COVID-19 patient as a source of immune escape variants](https://www.nature.com/articles/s41467-021-26602-3)
-- ![Total escape of SARS-CoV-2 from dual monoclonal antibody therapy in an immunocompromised patient](https://www.nature.com/articles/s41467-023-37591-w)
-- ![Antibody escape and global spread of SARS-CoV-2 lineage A. 27](https://www.nature.com/articles/s41467-022-28766-y)
-- ![Evolution and antiviral specificities of interferon-induced Mx proteins of bats against Ebola, influenza, and other RNA viruses](https://journals.asm.org/doi/full/10.1128/jvi.00361-17)
-- ![The landscape of SARS-CoV-2 RNA modifications](https://www.biorxiv.org/content/10.1101/2020.07.18.204362v1.abstract)
-- ![Comparative Study of Ten Thogotovirus Isolates and Their Distinct In Vivo Characteristics](https://journals.asm.org/doi/full/10.1128/jvi.01556-21)
-- ![Tick-transmitted thogotovirus gains high virulence by a single MxA escape mutation in the viral nucleoprotein](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009038)
-- ![Case series: convalescent plasma therapy for patients with COVID-19 and primary antibody deficiency](https://link.springer.com/article/10.1007/s10875-021-01193-2)
+- [Within-host evolution of SARS-CoV-2 in an immunosuppressed COVID-19 patient as a source of immune escape variants](https://www.nature.com/articles/s41467-021-26602-3)
+- [Total escape of SARS-CoV-2 from dual monoclonal antibody therapy in an immunocompromised patient](https://www.nature.com/articles/s41467-023-37591-w)
+- [Antibody escape and global spread of SARS-CoV-2 lineage A. 27](https://www.nature.com/articles/s41467-022-28766-y)
+- [Evolution and antiviral specificities of interferon-induced Mx proteins of bats against Ebola, influenza, and other RNA viruses](https://journals.asm.org/doi/full/10.1128/jvi.00361-17)
+- [The landscape of SARS-CoV-2 RNA modifications](https://www.biorxiv.org/content/10.1101/2020.07.18.204362v1.abstract)
+- [Comparative Study of Ten Thogotovirus Isolates and Their Distinct In Vivo Characteristics](https://journals.asm.org/doi/full/10.1128/jvi.01556-21)
+- [Tick-transmitted thogotovirus gains high virulence by a single MxA escape mutation in the viral nucleoprotein](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009038)
+- [Case series: convalescent plasma therapy for patients with COVID-19 and primary antibody deficiency](https://link.springer.com/article/10.1007/s10875-021-01193-2)
 
-  ... ![Full list of publications](https://scholar.google.de/citations?user=0Gw3wxUAAAAJ&hl=de)
+  ... [Full list of publications](https://scholar.google.de/citations?user=0Gw3wxUAAAAJ&hl=de)
 
 
 
