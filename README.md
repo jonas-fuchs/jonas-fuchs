@@ -13,7 +13,7 @@
 
 #### Software :floppy_disk:
 
-I am working on software for viral genomics. Available through `pip` (and `conda`).
+I am working on software for viral genomics. Available through `pip` and `conda`.
 
 - [`BAMdash`](https://github.com/jonas-fuchs/BAMdash) Aggregate your virus sequencing results into an interactive plot.
 - [`varVAMP`](https://github.com/jonas-fuchs/varVAMP) Design primers for PCR on highly variable alignments.
