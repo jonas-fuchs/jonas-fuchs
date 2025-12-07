@@ -9,8 +9,6 @@
 #### Skills  :heavy_check_mark:
 ![My Skills](https://skillicons.dev/icons?i=linux,r,py,powershell,bash,html,git,github,ps)[![snakemake](https://avatars.githubusercontent.com/u/33450111?s=50&v=4)](https://github.com/snakemake)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-fuchs&layout=compact&theme=dark)
-
 #### Software :floppy_disk:
 
 I am working on software for viral genomics. Available through `pip` and `conda`.
@@ -19,10 +17,6 @@ I am working on software for viral genomics. Available through `pip` and `conda`
 - [`varVAMP`](https://github.com/jonas-fuchs/varVAMP) Design primers for PCR on highly variable alignments.
 - [`virHEAT`](https://github.com/jonas-fuchs/virHEAT) Compare vcf files as a heatmap.
 - [`MSAexplorer`](https://github.com/jonas-fuchs/MSAexplorer) Alignment viewer in your browser.
-
-![stats](https://github-readme-stats.vercel.app/api?username=jonas-fuchs&show_icons=true&theme=dark)
-
-
 
 
 #### Publications :scroll:
