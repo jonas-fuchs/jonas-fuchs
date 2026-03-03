@@ -16,7 +16,7 @@ I am working on software for viral genomics. Available through `pip` and `conda`
 - [`BAMdash`](https://github.com/jonas-fuchs/BAMdash) Aggregate your virus sequencing results into an interactive plot.
 - [`varVAMP`](https://github.com/jonas-fuchs/varVAMP) Design primers for PCR on highly variable alignments.
 - [`virHEAT`](https://github.com/jonas-fuchs/virHEAT) Compare vcf files as a heatmap.
-- [`MSAexplorer`](https://github.com/jonas-fuchs/MSAexplorer) Alignment viewer in your browser.
+- [`MSAexplorer`](https://github.com/jonas-fuchs/MSAexplorer) Multiple Sequence Alignment graphing library on top of matplotlib.
 
 
 #### Publications :scroll:
